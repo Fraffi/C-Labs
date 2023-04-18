@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+# Object files
+*.o
+
+# Executables
+*.exe
+
+*.gcov
+*.gcda
+*.gcno
+=======
+# Object files
+*.o
+
+# Executables
+*.exe
+
+*.gcov
+*.gcda
+*.gcno
+>>>>>>> b4ef36ff963d7212227a609d8aaef62e537e59ca

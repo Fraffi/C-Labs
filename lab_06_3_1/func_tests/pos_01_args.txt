@@ -1,0 +1,1 @@
+main.exe goods01.txt 60

@@ -1,0 +1,1 @@
+main.exe goods02.txt 100

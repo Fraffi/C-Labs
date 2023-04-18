@@ -1,0 +1,32 @@
+Input:
+3
+1 2 3
+
+Output:
+1 2 3 0
+
+Input:
+3
+1 2 1
+
+Output:
+exit code 2
+
+Input:
+g
+
+Output:
+exit code 1
+
+Input:
+3
+1 g
+
+Output:
+exit code 1
+
+Input:
+12312
+
+Output:
+exit code 1
